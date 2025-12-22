@@ -25,10 +25,10 @@ Hi! I'm Jack Tanner - American, passionate about coding. Daily learner, aiming f
 
 ### ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=css,html,discord,github,git,go,yarn,npm,nodejs,express,react,nextjs,tailwind,ts,js,vscode,visualstudio,linux,ubuntu,windows,c,cpp,replit,vercel,remix&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css,html,discord,github,git,go,yarn,npm,nodejs,express,react,nextjs,tailwind,ts,js,vscode,visualstudio,linux,ubuntu,windows,c,cpp,vercel" />
 </div>
 
 ### What I want to learn: 
-<img src="https://skillicons.dev/icons?i=lua,cloudflare,mongodb,cassandra,materialui,markdown,nginx,aws,googlecloud,netlify,remix&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,cloudflare,mongodb,cassandra,materialui,markdown,nginx,aws,googlecloud,netlify,replit, remix&theme=dark" />
 </div>
 <br />
