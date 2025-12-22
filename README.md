@@ -17,7 +17,7 @@ Hi! I'm Jack Tanner - American, passionate about coding. Daily learner, aiming f
             <h2 align="center">My discord profile:</h2>
             <p align="center">
                 <a href="https://discord.com/users/787241442770419722">
-                  <img src="https://lanyard-profile-readme.vercel.app/api/787241442770419722?bg=0C0032" alt="Discord Profile"/>
+                  <img src="https://lanyard-profile-readme.vercel.app/api/1196897908579123273?bg=0C0032" alt="Discord Profile"/>
                 </a>
             </p>
         </samp>
