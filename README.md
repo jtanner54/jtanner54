@@ -1,8 +1,8 @@
 ## Hi there 👋 
 ## My name is Jack
 
-Cyber Enthusiast and Future Web Developer
-I'm Jack Tanner - American, passionate about coding. Daily learner, aiming for personal growth. Self-Taught programmer. Thanks for reading.
+## Cyber Enthusiast and Future Web Developer
+## I'm Jack Tanner - American, passionate about coding. Daily learner, aiming for personal growth. Self-Taught programmer. Thanks for reading.
 
 🌍  I'm based in USA
 
