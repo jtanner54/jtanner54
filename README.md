@@ -29,6 +29,6 @@ Hi! I'm Jack Tanner - American, passionate about coding. Daily learner, aiming f
 </div>
 
 ### What I want to learn: 
-<img src="https://skillicons.dev/icons?i=lua,cloudflare,mongodb,cassandra,materialui,markdown,nginx,aws,googlecloud,netlify,replit, remix&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,cloudflare,mongodb,cassandra,materialui,markdown,nginx,aws,googlecloud,netlify,replit,remix&theme=dark" />
 </div>
 <br />
