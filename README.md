@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 
+## My name is Jack
 
-<!--
-**jtanner54/jtanner54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Enthusiast and Future Web Developer
+I'm Jack Tanner - American, passionate about coding. Daily learner, aiming for personal growth. Self-Taught programmer. Thanks for reading.
 
-Here are some ideas to get you started:
+🌍  I'm based in USA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️  See my portfolio at 
+
+✉️  You can contact me at jtanner0786@gmail.com
+
+🧠  I'm learning about cyber & web dev
+
+🤝  I'm open to collaborating on projects like cyber and web development
+
+
