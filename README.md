@@ -7,7 +7,7 @@ Web Developer & Cyber
 Hi! I'm Jack Tanner - American, passionate about coding. Daily learner, aiming for personal growth. Self-Taught programmer. Thanks for reading.
 
 * 🌍  I'm based in USA
-* 🖥️  See my portfolio at [Portfolio](https://jacktanner.dev/)]
+* 🖥️  See my portfolio at [Portfolio](https://jacktanner.dev/)
 * ✉️  You can contact me at [jtanner0786@gmail.com](mailto:jtanner0786@gmail.com)
 * 🧠  I'm learning about cyber and web
 * 🤝  I'm open to collaborating on projects like cyber stuff and web development
