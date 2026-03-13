@@ -8,7 +8,7 @@ Hi! I'm Jack Tanner - American, passionate about coding. Daily learner, aiming f
 
 * 🌍  I'm based in USA
 * 🖥️  See my portfolio at [Portfolio](https://jacktanner.dev/)
-* ✉️  You can contact me at [jtanner0786@gmail.com](mailto:jtanner0786@gmail.com)
+* ✉️  You can contact me at [tannerje@rose-hulman.edu](mailto:tannerje@rose-hulman.edu)
 * 🧠  I'm learning about cyber and web
 * 🤝  I'm open to collaborating on projects like cyber stuff and web development
 
